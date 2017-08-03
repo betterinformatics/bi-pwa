@@ -3,6 +3,8 @@
 This repo holds the LaTeX source for some Probability with Applications 
 course notes.
 
+Looking for the pdf? [Please see the releases page](https://github.com/compsoc-edinburgh/bi-pwa/releases).
+
 
 ## Please do
 
